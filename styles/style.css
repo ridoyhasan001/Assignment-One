@@ -46,7 +46,7 @@ div>img {
 .ms2 {
     display: flex;
     gap: 30px;
-    padding: 100px 150px 0 150px;
+    padding: 50px 150px 0 150px;
 
 }
 
@@ -81,9 +81,10 @@ div>img {
 
     gap: 250px;
     justify-content: center;
-
+    text-decoration: underline;
 
 }
+
 
 /* another section */
 
@@ -138,7 +139,7 @@ div>img {
 
 .new-section {
     padding-left: 150px;
-    padding-top: 50px;
+    padding-top: 10px;
     background-color: blanchedalmond;
 }
 
@@ -146,9 +147,18 @@ div>img {
 
 .faltu {
     text-align: center;
-    background-image: url('../flower-shop-assignment-main/Flower\ Asset/');
-    margin: 100px;
+
+    margin: 50px;
 }
+
+.faltu-2 {
+    text-align: center;
+    background-image: url('../image/Rectangle\ 9.png');
+    margin: 100px;
+    height: 300px;
+    padding-top: 70px;
+}
+
 
 .email {
     width: 500px;
@@ -174,4 +184,8 @@ footer {
 
 .off {
     color: palevioletred;
+}
+
+.mail {
+    color: chartreuse;
 }
