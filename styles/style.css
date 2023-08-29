@@ -1,0 +1,166 @@
+/* header seaction */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.s1 {
+    display: flex;
+    height: 500px;
+}
+
+div>img {
+    width: 50%;
+
+    margin: 150px 200px 0 10px;
+
+}
+
+.s1 {
+    background-color: #E554731A;
+}
+
+.hd1 {
+    width: 50%;
+    margin: 100px 200px 150px 250px;
+
+}
+
+
+.button {
+    color: white;
+    padding: 10px;
+    background-color: palevioletred;
+}
+
+/* 1st section */
+
+.ms1 {
+    text-align: center;
+    gap: 10px;
+    padding: 50px 0 0 0;
+}
+
+.ms2 {
+    display: flex;
+    gap: 30px;
+    padding: 100px 150px 0 150px;
+
+}
+
+.sd1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.sd2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.sd3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15)
+}
+
+.ms2-img {
+    margin-left: 100px;
+}
+
+#id {
+    margin-top: 150px;
+}
+
+.pink {
+    display: flex;
+    text-decoration: none;
+    gap: 300px;
+    justify-content: center;
+    border-bottom: 1px solid black;
+
+}
+
+/* another section */
+
+.section-3 {
+    display: flex;
+    background-color: rgb(243, 233, 236);
+    margin-top: 100px;
+}
+
+.s3 {
+    padding: 100px;
+    margin: 100px 50px 0 150px;
+}
+
+.img2 {
+    padding: 50px 100px 0 100px;
+    margin-right: 200px;
+}
+
+#mid {
+    margin-left: 50px;
+}
+
+/* another section */
+
+.nothing {
+    text-align: center;
+    padding: 10px;
+}
+
+/* another section */
+.section {
+
+    display: flex;
+
+
+}
+
+.class {
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+
+}
+
+#left {
+    margin-left: 300px;
+}
+
+/* another section */
+
+.faltu {
+    text-align: center;
+    background-image: url('Rectangle9.png');
+}
+
+.email {
+    width: 500px;
+    height: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 400px;
+
+}
+
+.top {
+    padding-top: 100px;
+    margin-top: 100px;
+}
+
+.light-pink {
+    color: palevioletred;
+}
+
+.off {
+    color: palevioletred;
+}
